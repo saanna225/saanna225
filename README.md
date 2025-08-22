@@ -32,16 +32,16 @@
 <div align="center">
   <!-- Replace repo names with your real ones -->
   <a href="https://github.com/saanna225/projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<REPO_1>&theme=tokyonight&hide_border=true" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<projects>&theme=tokyonight&hide_border=true" alt="Project 1"/>
   </a>
   <a href="https://github.com/saanna225/Kaggle_competition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<REPO_2>&theme=tokyonight&hide_border=true" alt="Project 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<Kaggle_competition>&theme=tokyonight&hide_border=true" alt="Project 2"/>
   </a>
   <a href="https://github.com/saanna225/repo759">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<REPO_3>&theme=tokyonight&hide_border=true" alt="Project 3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<repo759>&theme=tokyonight&hide_border=true" alt="Project 3"/>
   </a>
   <a href="https://github.com/saanna225/profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<REPO_4>&theme=tokyonight&hide_border=true" alt="Project 4"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=<profile>&theme=tokyonight&hide_border=true" alt="Project 4"/>
   </a>
 </div>
 
