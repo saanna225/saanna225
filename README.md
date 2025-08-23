@@ -1,8 +1,9 @@
 <!-- Profile README for saanna225  |  Sea theme  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&weight=500&size=22&pause=1000&color=24C1FF&center=true&vCenter=true&width=700&lines=Ahoy!+I'm+Sahana+%F0%9F%9A%A2;Learning+new+techniques+here+and+sharing+codeflow+%F0%9F%8C%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C1FF&center=true&vCenter=true&width=700&lines=Ahoy!+I%27m+Sahana+%F0%9F%9A%A2+Learning+new+techniques+here+and+sharing+codeflows+%F0%9F%8C%8A"alt="Typing SVG"/>
+  
+   
 </p>
 
 <!-- top wave divider -->
