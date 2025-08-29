@@ -15,7 +15,7 @@
 <!-- quick links -->
 <p align="center">
   <a href="https://github.com/saanna225?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore%20Repos-0A66C2?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:"><img alt="sahanadiwakar12@gmail.com" src="https://img.shields.io/badge/Contact-1DA1F2?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
+  <a href="mailto:sahanadiwakar12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-1DA1F2?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
   <a href="https://www.kaggle.com/sahanda"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
