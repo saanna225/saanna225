@@ -32,23 +32,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" />
 </p>
 
-<!-- projects -->
-### 🧭 Project Treasures
-<div align="center">
-  <!-- Replace repo names with your real ones -->
-  <a href="https://github.com/saanna225/projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=projects&theme=tokyonight&hide_border=true" alt="projects"/>
-  </a>
-  <a href="https://github.com/saanna225/Kaggle_competition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=Kaggle_competition&theme=tokyonight&hide_border=true" alt="Kaggle_competition"/>
-  </a>
-  <a href="https://github.com/saanna225/home-departure-check">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=home-departure-check&theme=tokyonight&hide_border=true" alt="home-departure-check"/>
-  </a>
-  <a href="https://github.com/saanna225/RAG_model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=RAG_model&theme=tokyonight&hide_border=true" alt="RAG_model"/>
-  </a>
-</div>
 
 <!-- collapsible about -->
 <details>
