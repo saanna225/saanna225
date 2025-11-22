@@ -1,7 +1,7 @@
 <!-- soft aesthetic top divider -->
-<p align="center">
-  <img src="https://i.gifer.com/7ODS.gif" width="80%" />
-</p>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkdnBpZHN3ZTBpOXB4ZjN5NnE4ZzBkdnBpZHN3ZTBpOXB4ZjN5NnFxOGcwZHZwaWRzd2UwaQ/giphy.gif" width="400"/>
+</div>
 
 
 
@@ -44,10 +44,6 @@ python · figma · notion ·  Plotly · Slidebean
 
 
 ---
-
-<p align="center">
-  <img src="https://i.gifer.com/7ODS.gif" width="80%" />
-</p>
 
 
 
