@@ -1,5 +1,5 @@
 <!-- Profile README for saanna225  |  Sea theme  -->
-
+https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C1FF&center=true&vCenter=true&width=700&lines=Ahoy!+I%27m+Sahana+%F0%9F%9A%A2;Learning+new+techniques+here+and+sharing+codeflows+%F0%9F%8C%8A"alt="Typing SVG"/>
   
