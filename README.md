@@ -1,7 +1,8 @@
 <!-- soft aesthetic top divider -->
 <p align="center">
-  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" width="70%" />
+  <img src="https://i.pinimg.com/originals/b0/30/87/b03087188abee9f31fa8c9a79c7d5d87.gif" width="80%" />
 </p>
+
 
 <h1 align="center" style="color:#8A84E2; font-weight:600;">
   Hey, I'm Sahana 🌱
@@ -43,8 +44,9 @@ python · figma · notion ·  Plotly · Slidebean
 ---
 
 <p align="center">
-  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" width="70%" />
+  <img src="https://i.pinimg.com/originals/b0/30/87/b03087188abee9f31fa8c9a79c7d5d87.gif" width="80%" />
 </p>
+
 
 <p align="center" style="color:#b4b4b4; font-size:12px;">
   Building products to tackle hardships!
