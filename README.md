@@ -1,7 +1,8 @@
 <!-- soft aesthetic top divider -->
 <p align="center">
-  <img src="https://media.tenor.com/EnYlE5lO5SwAAAAC/bob-the-builder.gif" width="60%" />
+  <img src="https://media1.tenor.com/images/6a3b81fdf9a9236f86e0fbe54e6abece/tenor.gif" width="60%" />
 </p>
+
 
 
 <h1 align="center" style="color:#8A84E2; font-weight:600;">
