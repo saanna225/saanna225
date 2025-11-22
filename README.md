@@ -1,44 +1,55 @@
-<!-- Profile README for saanna225  |  Sea theme  -->
+<!-- soft aesthetic top divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Animated GIF" width="600">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C1FF&center=true&vCenter=true&width=700&lines=Ahoy!+I%27m+Sahana+%F0%9F%9A%A2;Learning+new+techniques+to+solve+product+problems%F0%9F%8C%8A"alt="Typing SVG"/>
-  
-   
+<h1 align="center" style="color:#8A84E2; font-weight:600;">
+  Hey, I'm Sahana 🌱
+</h1>
+
+<p align="center" style="color:#7f8c8d;">
+  Product Thinking · AI curiosity · Hunt for the better
 </p>
 
-<!-- top wave divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
+---
 
-<h1 align="center">⛵️ saanna225</h1>
-<p align="center">EXPLORING PRODUCT ROLES WITH AI LENS ⚓</p>
+### ✨ What i do  
+- break down products and user journeys in a GenZ way 
+- design simple onboarding with activation flows  
+- explore ai-powered features and prototypes  
+- write effective structured product documents  
 
-<!-- quick links -->
+---
+
+### 🧩 Things I am proud of building with feedbacks  
+- bill splitter for my social community
+- pinterest onboarding demo (interactive concept)  
+- rag-based chat model for MRI image documents 
+- tiny apps that help me with day-to-day activites 
+
+---
+
+### 🧠 tools i enjoy  
+python · figma · notion ·  Plotly · Slidebean
+
+---
+
+### 🌸 where to find me  
+[linkedin](https://www.linkedin.com/in/sahana-d) ·
+[portfolio](https://www.sahanadiwakar.space/) ·  
+[email](mailto:sahanadiwakar12@gmail.com)   
+
+
+---
+
 <p align="center">
-  <a href="https://github.com/saanna225?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore%20Repos-0A66C2?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:sahanadiwakar12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-1DA1F2?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
-  <a href="https://www.kaggle.com/sahanda"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="70%" />
 </p>
 
-<!-- tech stack -->
-<h3 align="center">🧰 Languages & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" />
+<p align="center" style="color:#b4b4b4; font-size:12px;">
+  Building products to tackle hardships!
 </p>
-
-
-<!-- collapsible about -->
-<details>
-<summary><b>⚓ About Me</b></summary>
-
-- 🌊 Love for exploring Products seems to be never ending.  
-- 🗺️ Interested in: Agentic AI helpers, data visualization and product management.  
+ 
 
 </details>
 
