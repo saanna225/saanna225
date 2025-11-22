@@ -1,6 +1,6 @@
 <!-- soft aesthetic top divider -->
 <p align="center">
-  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" />" width="70%" />
+  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" width="70%" />
 </p>
 
 <h1 align="center" style="color:#8A84E2; font-weight:600;">
@@ -43,7 +43,7 @@ python · figma · notion ·  Plotly · Slidebean
 ---
 
 <p align="center">
-  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" />" width="70%" />
+  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" width="70%" />
 </p>
 
 <p align="center" style="color:#b4b4b4; font-size:12px;">
