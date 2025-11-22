@@ -66,9 +66,5 @@
   <!-- If you prefer Option B, replace the line above with the ghchart image -->
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer&text=%20&fontSize=0" width="100%" />
 
-
-<!-- bottom wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer&text=%20&fontSize=0" width="100%" />
 
