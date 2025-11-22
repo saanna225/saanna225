@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C1FF&center=true&vCenter=true&width=700&lines=Ahoy!+I%27m+Sahana+%F0%9F%9A%A2;Learning+new+techniques+here+and+sharing+codeflows+%F0%9F%8C%8A"alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C1FF&center=true&vCenter=true&width=700&lines=Ahoy!+I%27m+Sahana+%F0%9F%9A%A2;Learning+new+techniques+to+solve+problems+on+products+%F0%9F%8C%8A"alt="Typing SVG"/>
   
    
 </p>
@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 
 <h1 align="center">⛵️ saanna225</h1>
-<p align="center">Exploring Product Roles through AI lens ⚓</p>
+<p align="center">EXPLORING PRODUCT ROLES WITH AI LENS ⚓</p>
 
 <!-- quick links -->
 <p align="center">
@@ -54,9 +54,8 @@
 <details>
 <summary><b>⚓ About Me</b></summary>
 
-- 🌊 Currently learning: ML ops basics, better experiment tracking.  
-- 🗺️ Interested in: medical imaging, agentic AI helpers, and clean dashboards.  
-- 🪙 Fun fact: I like github for once.
+- 🌊 Love for exploring Products seems to be never ending.  
+- 🗺️ Interested in: Agentic AI helpers, data visualization and product management.  
 
 </details>
 
@@ -69,10 +68,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer&text=%20&fontSize=0" width="100%" />
 
-<!-- callouts -->
-### 🪙 Recent Finds
-- 🧪 **Kaggle notebooks**: small experiments turned into readable reports.  
-- 🧰 **Utilities**: scripts for data cleaning and plotting that you can reuse.
 
 <!-- bottom wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer&text=%20&fontSize=0" width="100%" />
