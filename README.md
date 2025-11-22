@@ -1,7 +1,6 @@
 <!-- soft aesthetic top divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saanna225/saanna225/main/bob.gif"width ="60%" />
-</p>
+<img width="498" height="373" alt="image" src="https://github.com/user-attachments/assets/fa0c820a-9f5a-493e-bcef-5b512bd8739b" />
+
 
 
 
