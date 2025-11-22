@@ -1,5 +1,5 @@
 <!-- soft aesthetic top divider -->
-<img width="498" height="373" alt="image" align="centre" src="https://github.com/user-attachments/assets/fa0c820a-9f5a-493e-bcef-5b512bd8739b" />
+
 
 
 
