@@ -1,6 +1,8 @@
 <!-- soft aesthetic top divider -->
-<div class="tenor-gif-embed" data-postid="21863917" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/bob-the-builder-gif-21863917">Bob The Builder GIF</a>from <a href="https://tenor.com/search/bob+the+builder-gifs">Bob The Builder GIFs</a></div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/EnYlE5lO5SwAAAAC/bob-the-builder.gif" width="60%" />
+</p>
+
 
 <h1 align="center" style="color:#8A84E2; font-weight:600;">
   Hey, I'm Sahana 🌱
