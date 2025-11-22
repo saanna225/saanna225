@@ -1,9 +1,4 @@
 <!-- soft aesthetic top divider -->
-<p>
-  <imgsrc="https://www.deviantart.com/mrorlandomagicfan200/art/falling-Blossom-Gif-2-978796035"/>
-</p>
-
-
 
 
 <h1 align="center" style="color:#8A84E2; font-weight:600;">
