@@ -1,6 +1,6 @@
 <!-- soft aesthetic top divider -->
 <p>
-  <imgsrc="https://i.pinimg.com/originals/8d/98/ef/8d98ef32968595bc593b4fdf444ec8d6.gif"/>
+  <imgsrc="https://as1.ftcdn.net/v2/jpg/04/03/00/46/1000_F_403004602_UpeYG7vmRHGtQTYZ2AC1hHs9pxiIfGqz.jpg"/>
 </p>
 
 
