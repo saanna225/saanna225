@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 
 <h1 align="center">⛵️ saanna225</h1>
-<p align="center">Exploring data, pipelining routes and shipping tiny tools. ⚓</p>
+<p align="center">Exploring Product Roles through AI lens ⚓</p>
 
 <!-- quick links -->
 <p align="center">
@@ -39,11 +39,11 @@
   <a href="https://github.com/saanna225/Kaggle_competition">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=Kaggle_competition&theme=tokyonight&hide_border=true" alt="Kaggle_competition"/>
   </a>
-  <a href="https://github.com/saanna225/repo759">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=repo759&theme=tokyonight&hide_border=true" alt="repo759"/>
+  <a href="https://github.com/saanna225/home-departure-check">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=home-departure-check&theme=tokyonight&hide_border=true" alt="home-departure-check"/>
   </a>
-  <a href="https://github.com/saanna225/profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=profile&theme=tokyonight&hide_border=true" alt="profile"/>
+  <a href="https://github.com/saanna225/RAG_model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saanna225&repo=RAG_model&theme=tokyonight&hide_border=true" alt="RAG_model"/>
   </a>
 </div>
 
