@@ -1,7 +1,8 @@
 <!-- soft aesthetic top divider -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b0/30/87/b03087188abee9f31fa8c9a79c7d5d87.gif" width="80%" />
+  <img src="https://i.gifer.com/ZZ5H.gif" width="80%" />
 </p>
+
 
 
 <h1 align="center" style="color:#8A84E2; font-weight:600;">
@@ -44,7 +45,7 @@ python · figma · notion ·  Plotly · Slidebean
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b0/30/87/b03087188abee9f31fa8c9a79c7d5d87.gif" width="80%" />
+  <img src="https://i.gifer.com/ZZ5H.gif" width="80%" />
 </p>
 
 
