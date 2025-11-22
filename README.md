@@ -1,7 +1,7 @@
 <!-- soft aesthetic top divider -->
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkdnBpZHN3ZTBpOXB4ZjN5NnE4ZzBkdnBpZHN3ZTBpOXB4ZjN5NnFxOGcwZHZwaWRzd2UwaQ/giphy.gif" width="400"/>
-</div>
+<p>
+  <imgsrc="https://i.pinimg.com/originals/8d/98/ef/8d98ef32968595bc593b4fdf444ec8d6.gif"/>
+</p>
 
 
 
