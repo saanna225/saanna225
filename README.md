@@ -23,9 +23,9 @@
 ---
 
 ### 🧩 Things I am proud of building with feedbacks  
-- bill splitter for my social community
-- pinterest onboarding demo (interactive concept)  
-- rag-based chat model for MRI image documents 
+- OCR bill splitter , a competitor for Spliwise
+- n8n automations for PMM strategies  
+- rag-based chat model for MRI image documents for fellow PhD students 
 - tiny apps that help me with day-to-day activites 
 
 ---
@@ -46,7 +46,7 @@ python · figma · notion ·  Plotly · Slidebean
 
 
 <p align="center" style="color:#b4b4b4; font-size:12px;">
-  Building products to tackle hardships!
+  Building products to make impacts, scaling to customers like me!
 </p>
  
 
