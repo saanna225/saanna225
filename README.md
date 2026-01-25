@@ -31,7 +31,7 @@
 ---
 
 ### 🧠 tools i enjoy  
-python · figma · notion ·  Plotly · Slidebean
+python · figma · notion ·  Plotly · Slidebean · Canva · HubSpot
 
 ---
 
